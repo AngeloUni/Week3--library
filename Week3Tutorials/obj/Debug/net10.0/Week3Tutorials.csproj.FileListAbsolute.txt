@@ -1,0 +1,14 @@
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.AssemblyInfoInputs.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.AssemblyInfo.cs
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.csproj.CoreCompileInputs.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/bin/Debug/net10.0/Week3Tutorials
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/bin/Debug/net10.0/Week3Tutorials.deps.json
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/bin/Debug/net10.0/Week3Tutorials.runtimeconfig.json
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/bin/Debug/net10.0/Week3Tutorials.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/bin/Debug/net10.0/Week3Tutorials.pdb
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/refint/Week3Tutorials.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.pdb
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.genruntimeconfig.cache
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/ref/Week3Tutorials.dll
