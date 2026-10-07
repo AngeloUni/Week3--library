@@ -12,3 +12,4 @@
 /Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.pdb
 /Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.genruntimeconfig.cache
 /Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/ref/Week3Tutorials.dll
+/Users/angeloraon/Desktop/UlsterNotes/Year2/OOP/Sem1/Week3/Week3Tutorials/Week3Tutorials/Week3Tutorials/obj/Debug/net10.0/Week3Tutorials.sourcelink.json
