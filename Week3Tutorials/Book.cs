@@ -6,6 +6,13 @@ public class Book
     public string Author;
     public string ISBN;
 
+    public Book(string bookTitle, string bookAuthor, string bookISBN)
+    {
+        this.Title = bookTitle;
+        this.Author = bookAuthor;
+        this.ISBN = bookISBN;
+    }
+    
     public void DisplayInfo()
     {
         Console.WriteLine($"Book Title: {Title}");
@@ -13,4 +20,6 @@ public class Book
         Console.WriteLine($"Book ISBN: {ISBN}");
         Console.WriteLine();
     }
+
+
 }
